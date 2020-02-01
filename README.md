@@ -1,0 +1,1 @@
+Notes and notebooks as I work through "Bayesian Methods for Hackers."
